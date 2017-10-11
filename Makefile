@@ -1,6 +1,6 @@
 GO=$(shell which go)
 domain=localhost
-port=8080
+port=8888
 url=$(domain):$(port)
 
 run-level1:
